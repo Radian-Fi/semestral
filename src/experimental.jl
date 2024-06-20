@@ -365,4 +365,4 @@ end
 # arrows_and_streamplot_in_3d()
 #visualize_main(elbound, elfield, elbhcenter, elbhr, magbound, magfield, magbhcenter, magbhr)
 
-streamplot_in_3d()
+# streamplot_in_3d()
